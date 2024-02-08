@@ -48,5 +48,11 @@
       <groupId>io.vertx</groupId>
       <artifactId>vertx-web</artifactId>
     </dependency>
+
+    <dependency>
+      <groupId>com.mybatis-flex</groupId>
+      <artifactId>mybatis-flex-codegen</artifactId>
+      <version>1.7.9</version>
+    </dependency>
   </dependencies>
 </project>
